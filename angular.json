@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "crud-ngxs"
+  "defaultProject": "crud-ngxs",
+  "cli": {
+    "analytics": false
+  }
 }
